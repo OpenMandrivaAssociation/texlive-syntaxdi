@@ -3,7 +3,7 @@ Version:	56685
 Release:	2
 Summary:	Create "railroad" syntax diagrams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/syntaxdi
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/syntaxdi
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/syntaxdi.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/syntaxdi.doc.r%{version}.tar.xz
